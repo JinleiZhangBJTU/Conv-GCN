@@ -23,7 +23,7 @@ scipy == 1.3.3
 scikit-learn == 0.20.2  
 protobuf == 3.6.0  
 
-## Implement
+## Implementation
 
 Just download this repository and using PyCharm to open it. Then run Conv-GCN.py.
 
