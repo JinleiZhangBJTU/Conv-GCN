@@ -1,6 +1,6 @@
 # Conv-GCN
 Keras code for Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit
-## [Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit](10.1049/iet-its.2019.0873)
+## [Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit](http://doi.org/10.1049/iet-its.2019.0873)
 
 ![model structure](https://github.com/JinleiZhangBJTU/Conv-GCN/blob/master/pictures/model.png)  
 
@@ -33,6 +33,4 @@ Just download this repository and using PyCharm to open it. Then run Conv-GCN.py
 
 ## Reference
 
-Zhang, Jinlei; Chen, Feng; Guo, Yinan; Li, Xiaohong: '[Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit](10.1049/iet-its.2019.0873)', IET Intelligent Transport Systems, 2020, DOI: 10.1049/iet-its.2019.0873
-
-
+Zhang, Jinlei; Chen, Feng; Guo, Yinan; Li, Xiaohong: '[Multi-graph convolutional network for short-term passenger flow forecasting in urban rail transit](http://doi.org/10.1049/iet-its.2019.0873)', IET Intelligent Transport Systems, 2020, DOI: 10.1049/iet-its.2019.0873
